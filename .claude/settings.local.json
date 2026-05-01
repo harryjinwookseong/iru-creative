@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(PORT=3000 npm run dev)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp"
+    ]
+  }
+}

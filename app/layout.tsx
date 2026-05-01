@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "IRU Creative",
   description:
-    "IRU Creative is a multidisciplinary design studio based in Korea. We work through infinitely reflective understandings: in how we think, collaborate, and grow.",
+    "Multidisciplinary design studio based in Korea. We work through infinitely reflective understandings: in how people think, shape, and emerge.",
   metadataBase: new URL("https://irucreative.com"),
   openGraph: {
     title: "IRU Creative",

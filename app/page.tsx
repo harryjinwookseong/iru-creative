@@ -22,7 +22,7 @@ export default function Page() {
             We work through infinitely reflective understandings:
           </span>{" "}
           <span className="block whitespace-nowrap lg:inline-block">
-            in how we think, collaborate, and grow.
+            in how people think, shape, and emerge.
           </span>
         </p>
       </section>
